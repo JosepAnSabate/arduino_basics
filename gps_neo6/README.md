@@ -6,7 +6,7 @@ ELEGO UNO R3
 GPS GY-NEO6MV2 NEO-6M 3V-5V
 
 <p align="center">
-<img   src="/img_gps_first/gps_module.PNG">
+<img   src="./img_gps_first_t/gps_module.PNG">
 </p>
 
 ```bash
