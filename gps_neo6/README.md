@@ -6,7 +6,7 @@ ELEGO UNO R3
 GPS GY-NEO6MV2 NEO-6M 3V-5V
 
 <p align="center">
-<img   src="./img_gps_first/gps_module.PNG">
+<img   src="/img_gps_first/gps_module.PNG">
 </p>
 
 ```bash
@@ -44,7 +44,7 @@ void loop()
 
 ## RESULT
 <p align="center">
-<img   src="./img_gps_first/capura_coord.PNG">
+<img   src="/img_gps_first/capura_coord.PNG">
 </p>
 
 The GPS needs some time for doing the right calculations and output the entire coordinates.
