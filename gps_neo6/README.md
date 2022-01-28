@@ -44,7 +44,7 @@ void loop()
 
 ## RESULT
 <p align="center">
-<img   src="/img_gps_first/capura_coord.PNG">
+<img   src="/img_gps_first_t/capura_coord.PNG">
 </p>
 
 The GPS needs some time for doing the right calculations and output the entire coordinates.
